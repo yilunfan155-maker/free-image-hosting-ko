@@ -12,3 +12,6 @@ ilmainen kuvahostaus, lataa kuva, kuva URL osoitteeksi, kuvalinkin luonti, Markd
 ## Note
 
 Älä lataa yksityisiä, arkaluonteisia tai luottamuksellisia kuvia julkiseen kuvahostauspalveluun.
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets

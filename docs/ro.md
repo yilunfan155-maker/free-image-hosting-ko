@@ -12,3 +12,6 @@ găzduire gratuită imagini, încărcare imagine, imagine în URL, generator lin
 ## Note
 
 Nu încărca imagini private, sensibile sau confidențiale într-un serviciu public de găzduire a imaginilor.
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets

@@ -12,3 +12,6 @@
 ## Note
 
 ကိုယ်ရေးကိုယ်တာ၊ အရေးကြီး သို့မဟုတ် လျှို့ဝှက်ပုံများကို အများပြည်သူသုံး ပုံ hosting ဝန်ဆောင်မှုသို့ upload မလုပ်ပါနှင့်။
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets

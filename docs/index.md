@@ -64,3 +64,6 @@ Localized Markdown pages for Mini-Tools Free Image Hosting. Each page focuses on
 - [ខ្មែរ](km.md)
 - [ລາວ](lo.md)
 - [မြန်မာ](my.md)
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets

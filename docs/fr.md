@@ -12,3 +12,6 @@ hébergement image gratuit, téléverser image, image vers URL, générateur lie
 ## Note
 
 N’importez pas d’images privées, sensibles ou confidentielles vers un service public d’hébergement d’images.
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets

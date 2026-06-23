@@ -12,3 +12,6 @@
 ## Note
 
 தனிப்பட்ட, நுணுக்கமான அல்லது ரகசியமான படங்களை பொதுப் பட ஹோஸ்டிங் சேவைக்கு பதிவேற்ற வேண்டாம்.
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets

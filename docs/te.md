@@ -12,3 +12,6 @@
 ## Note
 
 ప్రైవేట్, సున్నితమైన లేదా రహస్య చిత్రాలను పబ్లిక్ ఇమేజ్ హోస్టింగ్ సేవకు అప్‌లోడ్ చేయవద్దు.
+## Long-tail keywords
+
+free image hosting for Markdown, image upload to direct URL, image to URL converter online, create image link for README, upload image for forum post, generate HTML image tag online, create BBCode image link, free image hosting without signup, temporary image link generator, image hosting for documentation, image URL generator for support tickets
